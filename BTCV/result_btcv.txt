@@ -1,0 +1,262 @@
+********************
+infer0001.nii.gz
+Dice_spleen: 0.9591
+Dice_right_kidney: 0.8766
+Dice_left_kidney: 0.9521
+Dice_gallbladder: 0.0714
+Dice_liver: 0.9700
+Dice_stomach: 0.8545
+Dice_aorta: 0.9194
+Dice_pancreas: 0.4493
+hd_spleen: 1.7321
+hd_right_kidney: 9.2736
+hd_left_kidney: 1.4142
+hd_gallbladder: 138.2811
+hd_liver: 2.0000
+hd_stomach: 7.6158
+hd_aorta: 2.0000
+hd_pancreas: 12.2066
+DSC:0.7565545643085186
+hd:21.815408244334137
+********************
+infer0002.nii.gz
+Dice_spleen: 0.9529
+Dice_right_kidney: 0.9482
+Dice_left_kidney: 0.9534
+Dice_gallbladder: 0.8123
+Dice_liver: 0.9708
+Dice_stomach: 0.9158
+Dice_aorta: 0.9039
+Dice_pancreas: 0.8060
+hd_spleen: 1.0000
+hd_right_kidney: 1.0000
+hd_left_kidney: 1.4142
+hd_gallbladder: 30.0108
+hd_liver: 1.4142
+hd_stomach: 2.8284
+hd_aorta: 2.2361
+hd_pancreas: 3.4641
+DSC:0.9079115713713761
+hd:5.42098177098433
+********************
+infer0003.nii.gz
+Dice_spleen: 0.8270
+Dice_right_kidney: 0.9561
+Dice_left_kidney: 0.9524
+Dice_gallbladder: 0.8629
+Dice_liver: 0.8421
+Dice_stomach: 0.4190
+Dice_aorta: 0.8941
+Dice_pancreas: 0.7966
+hd_spleen: 92.0532
+hd_right_kidney: 1.4142
+hd_left_kidney: 2.0000
+hd_gallbladder: 5.0990
+hd_liver: 82.6922
+hd_stomach: 70.1498
+hd_aorta: 2.8284
+hd_pancreas: 3.6056
+DSC:0.8187766328354698
+hd:32.480312072306084
+********************
+infer0004.nii.gz
+Dice_spleen: 0.9169
+Dice_right_kidney: 0.9442
+Dice_left_kidney: 0.9565
+Dice_gallbladder: 0.2718
+Dice_liver: 0.9625
+Dice_stomach: 0.5237
+Dice_aorta: 0.8802
+Dice_pancreas: 0.6710
+hd_spleen: 4.8990
+hd_right_kidney: 1.4142
+hd_left_kidney: 1.4142
+hd_gallbladder: 8.6284
+hd_liver: 2.0000
+hd_stomach: 234.4935
+hd_aorta: 2.2361
+hd_pancreas: 17.2337
+DSC:0.7658647893063979
+hd:34.03988155398993
+********************
+infer0008.nii.gz
+Dice_spleen: 0.9041
+Dice_right_kidney: 0.0002
+Dice_left_kidney: 0.0000
+Dice_gallbladder: 0.8971
+Dice_liver: 0.9675
+Dice_stomach: 0.9033
+Dice_aorta: 0.8862
+Dice_pancreas: 0.8333
+hd_spleen: 3.0000
+hd_right_kidney: 52.8621
+hd_left_kidney: 169.1538
+hd_gallbladder: 1.0000
+hd_liver: 1.4142
+hd_stomach: 2.2361
+hd_aorta: 2.2361
+hd_pancreas: 3.6056
+DSC:0.6739416429118484
+hd:29.438468155033316
+********************
+infer0022.nii.gz
+Dice_spleen: 0.9591
+Dice_right_kidney: 0.9456
+Dice_left_kidney: 0.9429
+Dice_gallbladder: 0.8858
+Dice_liver: 0.9664
+Dice_stomach: 0.9558
+Dice_aorta: 0.9226
+Dice_pancreas: 0.8703
+hd_spleen: 1.0000
+hd_right_kidney: 1.0000
+hd_left_kidney: 1.0000
+hd_gallbladder: 1.0000
+hd_liver: 1.4142
+hd_stomach: 1.0000
+hd_aorta: 1.4142
+hd_pancreas: 1.7321
+DSC:0.9310515821379861
+hd:1.1950597415393833
+********************
+infer0025.nii.gz
+Dice_spleen: 0.8836
+Dice_right_kidney: 0.9478
+Dice_left_kidney: 0.9549
+Dice_gallbladder: 0.9238
+Dice_liver: 0.9190
+Dice_stomach: 0.5371
+Dice_aorta: 0.9113
+Dice_pancreas: 0.7860
+hd_spleen: 123.0203
+hd_right_kidney: 1.0000
+hd_left_kidney: 1.0000
+hd_gallbladder: 1.0000
+hd_liver: 13.0000
+hd_stomach: 31.0483
+hd_aorta: 2.0000
+hd_pancreas: 2.2361
+DSC:0.8579388935266751
+hd:21.78809261177807
+********************
+infer0029.nii.gz
+Dice_spleen: 0.9633
+Dice_right_kidney: 0.9510
+Dice_left_kidney: 0.9462
+Dice_gallbladder: 0.8691
+Dice_liver: 0.9791
+Dice_stomach: 0.9116
+Dice_aorta: 0.9375
+Dice_pancreas: 0.7094
+hd_spleen: 1.0000
+hd_right_kidney: 1.0000
+hd_left_kidney: 1.0000
+hd_gallbladder: 2.2361
+hd_liver: 1.0000
+hd_stomach: 6.7082
+hd_aorta: 1.4142
+hd_pancreas: 7.0711
+DSC:0.9084187912396475
+hd:2.6786941605297163
+********************
+infer0032.nii.gz
+Dice_spleen: 0.9494
+Dice_right_kidney: 0.9457
+Dice_left_kidney: 0.9422
+Dice_gallbladder: 0.8966
+Dice_liver: 0.9691
+Dice_stomach: 0.7875
+Dice_aorta: 0.9264
+Dice_pancreas: 0.8310
+hd_spleen: 1.4142
+hd_right_kidney: 1.4142
+hd_left_kidney: 1.4142
+hd_gallbladder: 1.4142
+hd_liver: 2.0000
+hd_stomach: 9.8995
+hd_aorta: 1.4142
+hd_pancreas: 4.1231
+DSC:0.9059959635784942
+hd:2.88670854676185
+********************
+infer0035.nii.gz
+Dice_spleen: 0.9630
+Dice_right_kidney: 0.9398
+Dice_left_kidney: 0.9424
+Dice_gallbladder: 0.0000
+Dice_liver: 0.9719
+Dice_stomach: 0.8872
+Dice_aorta: 0.9237
+Dice_pancreas: 0.8218
+hd_spleen: 1.0000
+hd_right_kidney: 1.4142
+hd_left_kidney: 1.4142
+hd_gallbladder: 0.0000
+hd_liver: 1.0000
+hd_stomach: 3.0000
+hd_aorta: 1.0000
+hd_pancreas: 3.0000
+DSC:0.8062343850127989
+hd:1.4785533905932737
+********************
+infer0036.nii.gz
+Dice_spleen: 0.9613
+Dice_right_kidney: 0.9595
+Dice_left_kidney: 0.9562
+Dice_gallbladder: 0.7679
+Dice_liver: 0.9731
+Dice_stomach: 0.9388
+Dice_aorta: 0.9121
+Dice_pancreas: 0.8094
+hd_spleen: 1.4142
+hd_right_kidney: 1.4142
+hd_left_kidney: 1.4142
+hd_gallbladder: 2.2361
+hd_liver: 2.0000
+hd_stomach: 2.0000
+hd_aorta: 2.2361
+hd_pancreas: 4.0000
+DSC:0.9097909700560389
+hd:2.089347080264858
+********************
+infer0038.nii.gz
+Dice_spleen: 0.9384
+Dice_right_kidney: 0.9421
+Dice_left_kidney: 0.9401
+Dice_gallbladder: 0.5234
+Dice_liver: 0.9643
+Dice_stomach: 0.6270
+Dice_aorta: 0.9058
+Dice_pancreas: 0.8567
+hd_spleen: 47.7912
+hd_right_kidney: 1.0000
+hd_left_kidney: 1.0000
+hd_gallbladder: 3.0000
+hd_liver: 1.7321
+hd_stomach: 35.7071
+hd_aorta: 49.8513
+hd_pancreas: 2.2361
+DSC:0.8372148474452036
+hd:17.78971902508214
+********************
+Mean_Dice
+Dice_spleen0.9315164086459532
+Dice_right_kidney0.8630601924744791
+Dice_left_kidney0.8699388073568558
+Dice_gallbladder0.6485251237820499
+Dice_liver0.9546688633050286
+Dice_stomach0.7717727058399282
+Dice_aorta0.9102499600272395
+Dice_pancreas0.770064361055436
+Mean_hd
+hd_spleen23.277019886571537
+hd_right_kidney6.183896213569178
+hd_left_kidney15.303254797183293
+hd_gallbladder16.15880391152095
+hd_liver9.305574321033356
+hd_stomach33.890566244352264
+hd_aorta5.905551534445394
+hd_pancreas5.376150660122093
+********************
+dsc:0.8399745528108713
+hd:14.425102196099758
